@@ -1,5 +1,9 @@
 # SmartFlowerPot
 
+Link to folder with all files:
+https://drive.google.com/drive/folders/1bVQrobbb8ZopDfx7F6vvX3TpBuy_JWUM?usp=drive_link
+
+
 Polish version:
 
 Projekt Inteligentna Doniczka to zaawansowany system wbudowany, opracowany w oparciu o mikrokontroler STM32 Nucleo-G491 i niskopoziomowe programowanie w języku C. Stanowi on kompleksową platformę przeznaczoną do automatycznego monitorowania kluczowych parametrów środowiskowych oraz precyzyjnego zarządzania procesem nawadniania upraw.
